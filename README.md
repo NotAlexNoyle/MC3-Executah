@@ -1,5 +1,7 @@
 ![User Interface](https://i.imgur.com/mdqlRYB.png)
 
+Download version 1.0 here: https://github.com/NotAlexNoyle/MC3-Executah/releases/tag/1.0
+
 MC3-Executah is a workaround which enables the graphical launching of foreign executables. By default, on MC3 computers, this behavior is blocked in Windows Explorer. In other words... you can use MC3-Executah to launch programs that you have downloaded from the internet or stored on a flash drive.
 
 MC3-Executah is compatible with any Windows system that has Java 7 or later installed. If you need to install java, please use OpenJDK to support open source software. You can get it from www.adoptopenjdk.net.
